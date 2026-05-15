@@ -268,8 +268,3 @@ Compatible with:
 * Sensor fusion for more stable heading estimation
 
 ---
-
-# Source
-
-Project source code included in:
-`main.cpp`
